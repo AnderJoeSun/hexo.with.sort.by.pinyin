@@ -1,9 +1,11 @@
 ## Hexo with sort by pinyin
 1. 基于Hexo v3.2.2修改
 
-2. 添加中英文按拼音字母排序功能
+2. 添加中英文按拼音字母排序功能，[查看效果](https://zhengnian.me/tag/)
 
-3. 使用说明与博客示例：[正念多蜜](https://zhengnian.me)
+3. [使用说明](https://zhengnian.me/2015/12/25/source.projects.of.this.blog/)
+
+4. 博客示例：[正念多蜜](https://zhengnian.me)
 
 ## Original Hexo
 
